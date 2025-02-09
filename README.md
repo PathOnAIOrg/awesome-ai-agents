@@ -78,3 +78,7 @@
 | MetaGPT | [geekan/MetaGPT](https://github.com/geekan/MetaGPT) |
 | CrewAI | [joaomdmoura/crewAI](https://github.com/joaomdmoura/crewAI) |
 | LangGraph | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) |
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=PathOnAI-org/awesome-ai-agents&type=Date)](https://star-history.com/#PathOnAI-org/awesome-ai-agents&Date)
