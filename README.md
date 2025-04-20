@@ -78,6 +78,7 @@
 | MetaGPT | [geekan/MetaGPT](https://github.com/geekan/MetaGPT) |
 | CrewAI | [joaomdmoura/crewAI](https://github.com/joaomdmoura/crewAI) |
 | LangGraph | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) |
+| Giselle | [giselles-ai/giselle](https://github.com/giselles-ai/giselle) |
 
 ## Star History
 
