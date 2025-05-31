@@ -97,4 +97,4 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=PathOnAI/awesome-ai-agents&type=Date)](https://star-history.com/#PathOnAI/awesome-ai-agents&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=PathOnAIOrg/awesome-ai-agents&type=Date)](https://star-history.com/#PathOnAIOrg/awesome-ai-agents&Date)
