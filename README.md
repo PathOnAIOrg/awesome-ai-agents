@@ -80,6 +80,7 @@
 | AIOS | [agiresearch/AIOS](https://github.com/agiresearch/AIOS) |
 | Phidata | [phidatahq/phidata](https://github.com/phidatahq/phidata/tree/main/cookbook/llm_os) |
 | MemGPT | [cpacker/MemGPT](https://github.com/cpacker/MemGPT) |
+| Mnemoverse | [mnemoverse/mcp-memory-server](https://github.com/mnemoverse/mcp-memory-server) |
 | AutoNode | [SuperAGI Blog](https://superagi.com/introducing-autonode-advancing-rpa-with-a-multi-expert-ai-system/) |
 
 ## 8. AI Developer: coding agent
