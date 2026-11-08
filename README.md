@@ -26,6 +26,7 @@
 | MetaGPT | [geekan/MetaGPT](https://github.com/geekan/MetaGPT) |
 | CrewAI | [joaomdmoura/crewAI](https://github.com/joaomdmoura/crewAI) |
 | LangGraph | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) |
+| LightAgent | [wanxingai/LightAgent](https://github.com/wanxingai/LightAgent) |
 | Giselle | [giselles-ai/giselle](https://github.com/giselles-ai/giselle) |
 | AgentLite | [SalesforceAIResearch/AgentLite](https://github.com/SalesforceAIResearch/AgentLite) |
 | LiteMultiAgent | [PathOnAI/LiteMultiAgent](https://github.com/PathOnAI/LiteMultiAgent) |
